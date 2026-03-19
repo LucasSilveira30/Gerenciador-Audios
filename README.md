@@ -1,48 +1,47 @@
 # Gerenciador de Áudios
 
-Projeto desenvolvido em **Java** como parte dos estudos em programação e evolução na carreira de desenvolvimento back-end.
-
-🔗 Repositório: https://github.com/LucasSilveira30/Gerenciador-Audios.git
+Este é um projeto desenvolvido em **Java** com o intuito de praticar conceitos de Programção Orientada a Objetos.
 
 ---
 
-## 📚 Sobre o projeto
+## Sobre o projeto
 
 O **Gerenciador de Áudios** é uma aplicação que permite simular o gerenciamento de conteúdos de áudio, como músicas e podcasts.
 
 O objetivo do projeto é praticar conceitos fundamentais da linguagem Java, incluindo:
 
 - Programação orientada a objetos (POO)
+- Abstração
 - Herança e polimorfismo
 - Encapsulamento
 - Organização de código em classes
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 O sistema permite:
 
-- 🎵 Gerenciar músicas
-- 🎙️ Gerenciar podcasts
-- ▶️ Reproduzir áudios
-- 👍 Curtir conteúdos
-- 📊 Exibir informações dos áudios
+- Gerenciar músicas
+- Gerenciar podcasts
+- Reproduzir áudios
+- Curtir conteúdos
+- Exibir informações dos áudios
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Java
 - Programação Orientada a Objetos (POO)
 
 ---
 
-## 📂 Estrutura do projeto
+## Estrutura do projeto
 
 O projeto é organizado em classes que representam diferentes tipos de áudio, como:
 
-- `Audio` (classe base)
+- `Audio` (superclasse)
 - `Musica`
 - `Podcast`
 
@@ -50,32 +49,31 @@ Cada classe possui seus próprios atributos e comportamentos, aplicando conceito
 
 ---
 
-## ▶️ Como executar o projeto
+## Como executar o projeto
 
 1. Clone o repositório:
 
-```bash
-git clone https://github.com/LucasSilveira30/Gerenciador-Audios.git
+`git clone https://github.com/LucasSilveira30/Gerenciador-Audios.git`
 
-Acesse a pasta do projeto:
+2. Acesse a pasta do projeto:
 
-cd Gerenciador-Audios
+`cd Gerenciador-Audios`
 
-Compile os arquivos Java:
+3. Compile os arquivos Java:
 
-javac *.java
+`javac *.java`
 
-Execute a aplicação:
+4. Execute a aplicação:
 
-java Main
-🎯 Objetivo educacional
+`java Main`
+
+---
+
+## Objetivo educacional
 
 Este projeto foi desenvolvido com o objetivo de:
 
-Consolidar conhecimentos em Java
-
-Praticar conceitos de POO
-
-Desenvolver lógica de programação
-
-Aprender boas práticas de organização de código
+- Consolidar conhecimentos em Java
+- Praticar conceitos de POO
+- Desenvolver lógica de programação
+- Aprender boas práticas de organização de código
