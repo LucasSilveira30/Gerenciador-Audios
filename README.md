@@ -4,7 +4,7 @@ Este é um projeto desenvolvido em **Java** com o intuito de praticar conceitos 
 
 ---
 
-## Sobre o projeto
+## Sobre o Projeto
 
 O **Gerenciador de Áudios** é uma aplicação que permite simular o gerenciamento de conteúdos de áudio, como músicas e podcasts.
 
@@ -30,14 +30,14 @@ O sistema permite:
 
 ---
 
-## Tecnologias utilizadas
+## Tecnologias Utilizadas
 
 - Java
 - Programação Orientada a Objetos (POO)
 
 ---
 
-## Estrutura do projeto
+## Estrutura do Projeto
 
 O projeto é organizado em classes que representam diferentes tipos de áudio, como:
 
@@ -49,7 +49,7 @@ Cada classe possui seus próprios atributos e comportamentos, aplicando conceito
 
 ---
 
-## Como executar o projeto
+## Como Executar o Projeto
 
 1. Clone o repositório:
 
@@ -69,7 +69,7 @@ Cada classe possui seus próprios atributos e comportamentos, aplicando conceito
 
 ---
 
-## Objetivo educacional
+## Objetivo Educacional
 
 Este projeto foi desenvolvido com o objetivo de:
 
@@ -77,3 +77,7 @@ Este projeto foi desenvolvido com o objetivo de:
 - Praticar conceitos de POO
 - Desenvolver lógica de programação
 - Aprender boas práticas de organização de código
+
+---
+
+Este projeto foi desenvolvido como desafio final do curso **"Java: trabalhando com listas e coleções de dados"**, fazendo parte dos estudos em **Desenvolvimento Back-End Java** disponibilizados pela plataforma **Alura**.  
